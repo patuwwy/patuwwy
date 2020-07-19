@@ -1,4 +1,4 @@
-<png width="854" height="600" xmlns="http://www.w3.org/2000/png">
+<svg width="854" height="600" xmlns="http://www.w3.org/2000/png">
     <g class="backg">
         <image class="im l1" href="https://raw.githubusercontent.com/patuwwy/patuwwy/master/assets/1.png" height="200" width="200"/>
         <image class="im l2" href="https://raw.githubusercontent.com/patuwwy/patuwwy/master/assets/2.png" height="200" width="200"/>
@@ -20,4 +20,5 @@
             .backg { perspective: 400px; position: relative; top: 0%; height: 100%; width: 100%; left: 0; margin-top: 0; opacity: 0.4; } .im { display: block; height: 500px; width: 500px; position: absolute; top: 50%; left: 50%; transform-origin: 50%; margin: -250px auto auto -250px; animation: move 4s infinite linear -4s; } .backg .l2 { animation-delay: -3.75s; } .backg .l3 { animation-delay: -3.5s; } .backg .l4 { animation-delay: -3.25s; } .backg .l5 { animation-delay: -3s; } .backg .l6 { animation-delay: -2.75s; } .backg .l7 { animation-delay: -2.5s; } .backg .l8 { animation-delay: -2.25s; } .backg .l9 { animation-delay: -2s; } .backg .l10 { animation-delay: -1.75s; } .backg .l11 { animation-delay: -1.5s; } .backg .l12 { animation-delay: -1.25s; } .backg .l13 { animation-delay: -1s; } .backg .l14 { animation-delay: -0.75s; } .backg .l15 { animation-delay: -0.5s; } .backg .l16 { animation-delay: -0.25s; } @keyframes move { from { transform: rotateZ(0deg) scale(0); opacity: 0; } 20%, 60% { opacity: 1; } 80% { opacity: 0.4; } to { transform: rotateZ(180deg) scale(2); opacity: 0; } }
         </style>
     </g>
-</png>
+</svg>
+

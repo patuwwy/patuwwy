@@ -1,1 +1,1 @@
-![](/patuwwy/patuwwy/raw/master/assets/a.svg)
+![](assets/a.svg)
